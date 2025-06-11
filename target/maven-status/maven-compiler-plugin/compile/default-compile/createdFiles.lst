@@ -1,0 +1,8 @@
+pro\sky\telegrambot\model\NotificationTask.class
+pro\sky\telegrambot\TelegramBotApplication.class
+pro\sky\telegrambot\component\NotificationTaskTimer.class
+pro\sky\telegrambot\configuration\TelegramBotConfiguration.class
+pro\sky\telegrambot\service\NotificationTaskService.class
+pro\sky\telegrambot\repository\NotificationTaskRepository.class
+pro\sky\telegrambot\component\SendAnAssistant.class
+pro\sky\telegrambot\listener\TelegramBotUpdatesListener.class
